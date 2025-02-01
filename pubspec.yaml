@@ -1,6 +1,6 @@
 name: universal_stepper
 description: "Provides a universal stepper widget for Flutter. The widget can be used for building horizontal and vertical steppers."
-version: 1.0.0
+version: 1.0.0+1
 homepage: https://github.com/ArturLevchuk/universal_stepper
 
 environment:

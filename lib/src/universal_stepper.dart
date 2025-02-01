@@ -59,13 +59,11 @@ class UniversalStepper extends StatelessWidget {
           ? CrossAxisAlignment.start
           : CrossAxisAlignment.end;
     }
-    return SizedBox(
-      child: Flex(
-        crossAxisAlignment: caa,
-        direction: stepperDirection,
-        children: List.generate(
-            elementCount, (index) => _getPreferredStepper(context, index)),
-      ),
+    return Flex(
+      crossAxisAlignment: caa,
+      direction: stepperDirection,
+      children: List.generate(
+          elementCount, (index) => _getPreferredStepper(context, index)),
     );
   }
 
