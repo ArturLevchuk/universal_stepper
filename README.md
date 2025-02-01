@@ -86,4 +86,4 @@ And here’s the inverted variant:
 
 <img src="previews/horizontal_stepper_center_aligment_inverted.png"/>
 
-For full examples, check out the example app.
+For full examples, check out the [example app](https://github.com/ArturLevchuk/universal_stepper/tree/master/example).
