@@ -54,7 +54,7 @@ UniversalStepper(
 ```
 Here’s an example of what the result might look like:
 
-<img src="https://github.com/ArturLevchuk/universal_stepper/blob/master/previews/vertical_stepper_start_aligment.png?raw=true" height="400"/>
+![](https://github.com/ArturLevchuk/universal_stepper/blob/master/previews/vertical_stepper_start_aligment.png?raw=true)
 
 ## Parameters
 
@@ -74,16 +74,17 @@ Here’s an example of what the result might look like:
 
 For example, if you set `inverted` to true and `badgePosition` to `StepperBadgePosition.center`, the result will look like this:
 
-<img src="https://github.com/ArturLevchuk/universal_stepper/blob/master/previews/vertical_stepper_center_aligment_inverted.png?raw=true" height="400"/>
+![](https://github.com/ArturLevchuk/universal_stepper/blob/master/previews/vertical_stepper_center_aligment_inverted.png?raw=true)
 
 # Horizontal Stepper
 To create a horizontal stepper, set stepperDirection to Axis.horizontal.
 
 Here’s an example of a horizontal stepper:
 
-<img src="https://github.com/ArturLevchuk/universal_stepper/blob/master/previews/horizontal_stepper_center_aligment.png?raw=true"/>
+![](https://github.com/ArturLevchuk/universal_stepper/blob/master/previews/horizontal_stepper_center_aligment.png?raw=true)
+
 And here’s the inverted variant:
 
-<img src="https://github.com/ArturLevchuk/universal_stepper/blob/master/previews/horizontal_stepper_center_aligment_inverted.png?raw=true"/>
+![](https://github.com/ArturLevchuk/universal_stepper/blob/master/previews/horizontal_stepper_center_aligment_inverted.png?raw=true)
 
 For full examples, check out the [example app](https://github.com/ArturLevchuk/universal_stepper/tree/master/example).
